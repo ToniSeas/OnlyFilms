@@ -6,7 +6,7 @@ This application was made in the year 2021 for a project of the course IF3001 (A
 ## Documentation
 
 * [General Information](https://github.com/ToniSeas/OnlyFilms/wiki#general-information)
-* [App Views]()
+* [App Views](https://github.com/ToniSeas/OnlyFilms/wiki#app-views)
     * [Log In]()
     * [Sign Up]()
     * [Profile Selection]()
