@@ -80,7 +80,7 @@ public class StageCategorySelection {
 
 			}
 		});
-		Button btnSignOff = new Button("Cerrar sesión");
+		Button btnSignOff = new Button("Cerrar sesiÃ³n");
 		btnSignOff.setDefaultButton(true);
 		btnSignOff.setPrefSize(100, 30);
 		btnSignOff.setLayoutX(120);
@@ -96,7 +96,7 @@ public class StageCategorySelection {
 		root.getChildren().addAll(btnSignOff, btnChangeProfile);
 
 		primaryStage.setResizable(false);
-		primaryStage.setTitle("Selección de Categoría");
+		primaryStage.setTitle("SelecciÃ³n de CategorÃ­a");
 		primaryStage.setScene(new Scene(root));
 
 	} // Fin de start
@@ -169,7 +169,7 @@ public class StageCategorySelection {
 					new StageFilmsSelection(primaryStage, contentList);
 				} else {
 					this.showAlert("Sin Contenido",
-							"No hay contenido disponible en esta categoría con respecto a la edad del usuario");
+							"No hay contenido disponible en esta categorÃ­a con respecto a la edad del usuario");
 				}
 
 			} else if (this.categorySelection.getNodeCenter().mouseOver(x, y)) {
@@ -185,7 +185,7 @@ public class StageCategorySelection {
 					new StageFilmsSelection(primaryStage, contentList);
 				} else {
 					this.showAlert("Sin Contenido",
-							"No hay contenido disponible en esta categoría con respecto a la edad del usuario");
+							"No hay contenido disponible en esta categorÃ­a con respecto a la edad del usuario");
 				}
 
 			} else if (this.categorySelection.getNodeRigth().mouseOver(x, y)) {
@@ -201,7 +201,7 @@ public class StageCategorySelection {
 					new StageFilmsSelection(primaryStage, contentList);
 				} else {
 					this.showAlert("Sin Contenido",
-							"No hay contenido disponible en esta categoría con respecto a la edad del usuario");
+							"No hay contenido disponible en esta categorÃ­a con respecto a la edad del usuario");
 				}
 
 			} else if (this.categorySelection.getKeepWatching().mouseOver(x, y)) {

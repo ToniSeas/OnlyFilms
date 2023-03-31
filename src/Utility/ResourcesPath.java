@@ -2,7 +2,7 @@ package Utility;
 
 public class ResourcesPath {
 
-	// RUTAS DE PORTADAS DE PEL�CULAS
+	// RUTAS DE PORTADAS DE PELICULAS
 	public static final String AMERICANHORRORSTORIES = "/resources/AudioVisualCoverImage/americanhorrorstories.jpg";
 	public static final String ELCONJURO = "/resources/AudioVisualCoverImage/elconjuro.jpg";
 	public static final String ELTITERE = "/resources/AudioVisualCoverImage/eltitere.jpg";
@@ -40,7 +40,7 @@ public class ResourcesPath {
 	public static final String PIRATASCARIBELAMALDICIONPERLANEGRA = "/resources/AudioVisualCoverImage/PiratasCaribeLaMaldicionPerlaNegra.jpg";
 	public static final String INDIANAJONESELTEMPLOMALDITO = "/resources/AudioVisualCoverImage/IndianaJonesElTemploMaldito.png";
 	
-	// RUTA DE PORTADAS DE CATEGOR�A
+	// RUTA DE PORTADAS DE CATEGORIA
 	public static final String COMEDY = "/resources/CategoryCoverImage/comedia.png";
 	public static final String ACTION =  "/resources/CategoryCoverImage/accion.png";
 	public static final String ROMANTIC =  "/resources/CategoryCoverImage/romantica.png";
