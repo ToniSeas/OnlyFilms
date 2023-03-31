@@ -1,11 +1,11 @@
 # OnlyFilms
 
-## Description
+## About
 This application was made in the year 2021 for a project of the course IF3001 (Algorithms and Data Structures) of the University of Costa Rica.
 
 ## Documentation
 
-* [Description]()
+* [General Information]()
 * [App Views]()
     * [Log In]()
     * [Sign Up]()
